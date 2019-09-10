@@ -1,0 +1,7 @@
+C:\Users\Jeremiah Zyrel\source\repos\GetRfidArduino\GetRfidArduino\bin\Debug\GetRfidArduino.exe.config
+C:\Users\Jeremiah Zyrel\source\repos\GetRfidArduino\GetRfidArduino\bin\Debug\GetRfidArduino.exe
+C:\Users\Jeremiah Zyrel\source\repos\GetRfidArduino\GetRfidArduino\bin\Debug\GetRfidArduino.pdb
+C:\Users\Jeremiah Zyrel\source\repos\GetRfidArduino\GetRfidArduino\obj\Debug\GetRfidArduino.csprojAssemblyReference.cache
+C:\Users\Jeremiah Zyrel\source\repos\GetRfidArduino\GetRfidArduino\obj\Debug\GetRfidArduino.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Zyrel\source\repos\GetRfidArduino\GetRfidArduino\obj\Debug\GetRfidArduino.exe
+C:\Users\Jeremiah Zyrel\source\repos\GetRfidArduino\GetRfidArduino\obj\Debug\GetRfidArduino.pdb
